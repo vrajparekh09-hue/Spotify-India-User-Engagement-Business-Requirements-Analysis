@@ -1,6 +1,6 @@
 # Spotify India – User Engagement & Business Requirements Analysis
 
-## 📌 Project Overview
+##  Project Overview
 
 This project analyzes the user engagement challenges faced by Spotify in the Indian music streaming market.
 
@@ -10,7 +10,7 @@ The project focuses on understanding **why users may not engage deeply with Spot
 
 ---
 
-## 🎯 Business Problem
+##  Business Problem
 
 Spotify India faces challenges related to user engagement, including:
 
@@ -26,7 +26,7 @@ The objective of this project is to frame these challenges from a business and u
 
 ---
 
-## 🔍 Project Objectives
+##  Project Objectives
 
 The project aims to:
 
@@ -43,7 +43,7 @@ The project aims to:
 
 ---
 
-## 🧩 System Thinking & Market Analysis
+##  System Thinking & Market Analysis
 
 The system-thinking analysis considers the broader ecosystem surrounding Spotify India, including:
 
@@ -68,7 +68,7 @@ Spotify's identified differentiators include personalized discovery, podcast int
 
 ---
 
-## 👥 User Segmentation
+##  User Segmentation
 
 Users were analyzed across multiple dimensions:
 
@@ -81,7 +81,7 @@ Users were analyzed across multiple dimensions:
 
 ---
 
-## 👤 User Personas
+##  User Personas
 
 Four representative personas were developed to understand different user needs and engagement barriers.
 
@@ -108,7 +108,7 @@ Four representative personas were developed to understand different user needs a
 
 ---
 
-## 💼 Jobs-to-be-Done
+##  Jobs-to-be-Done
 
 The project uses the **Jobs-to-be-Done (JTBD)** framework to understand the underlying goals users are trying to accomplish.
 
@@ -122,7 +122,7 @@ Examples include:
 
 ---
 
-## 📊 Current Engagement Gap
+##  Current Engagement Gap
 
 The BRD uses estimated Spotify India metrics and global benchmarks to frame the engagement gap.
 
@@ -139,7 +139,7 @@ These figures are used as directional benchmarks within the project and are not 
 
 ---
 
-## 🛣️ User Journey Analysis
+##  User Journey Analysis
 
 The current user journey was analyzed across:
 
@@ -160,7 +160,7 @@ High-risk areas include:
 
 ---
 
-## 🧠 Hypothesis Framework
+##  Hypothesis Framework
 
 The project defines hypotheses to guide future discovery and validation.
 
@@ -179,7 +179,7 @@ These hypotheses are proposed for validation and should not be interpreted as co
 
 ---
 
-## 🛠️ Intervention Domains
+##  Intervention Domains
 
 Six major intervention domains were identified:
 
@@ -192,7 +192,7 @@ Six major intervention domains were identified:
 
 ---
 
-## 📈 Success Criteria & KPIs
+##  Success Criteria & KPIs
 
 The BRD defines measurable targets for evaluating future improvements.
 
@@ -211,7 +211,7 @@ The targets are directional and intended to be revised following further discove
 
 ---
 
-## 👥 Stakeholders
+##  Stakeholders
 
 The BRD identifies the following stakeholders:
 
@@ -223,7 +223,7 @@ The BRD identifies the following stakeholders:
 
 ---
 
-## 💡 Key Business Recommendations
+##  Key Business Recommendations
 
 Based on the problem framing and analysis, the project identifies the following areas for product intervention:
 
@@ -237,7 +237,7 @@ Based on the problem framing and analysis, the project identifies the following 
 
 ---
 
-## 📄 Project Deliverables
+##  Project Deliverables
 
 This repository contains:
 
@@ -246,7 +246,7 @@ This repository contains:
 
 ---
 
-## 🧰 Skills & Techniques
+##  Skills & Techniques
 
 ### Business Analysis
 - Problem Framing
@@ -273,7 +273,7 @@ This repository contains:
 
 ---
 
-## 📌 Key Takeaway
+##  Key Takeaway
 
 The project demonstrates how a Business Analyst can move from a broad business problem to structured problem framing, user understanding, hypothesis development, requirements definition, and measurable success criteria.
 
@@ -281,7 +281,7 @@ The primary focus is on improving **user engagement, retention, content discover
 
 ---
 
-## 👤 Author
+##  Author
 
 **Vraj Parekh**
 
